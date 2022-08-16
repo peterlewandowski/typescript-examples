@@ -1,0 +1,19 @@
+{
+  "name": "typescript-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bocacode/typescript-example.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bocacode/typescript-example/issues"
+  },
+  "homepage": "https://github.com/bocacode/typescript-example#readme"
+}
